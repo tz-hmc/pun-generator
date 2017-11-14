@@ -9,8 +9,6 @@ why not
 - Waiting 10 minutes for pun to be returned much less satisfying than imagined
 
 ## Todo
-The search for somewhat efficient pun generator begins. Will probably go back to this.
-
-## Note
-Need to download 1.5GB Google Word2Vec model. Kind of overkill, and its really slow.
-Will probably test alternatives. 
+The search for somewhat efficient pun generator begins. Will probably go back and work on this.
+Also, this requires downloading 1.5GB Google Word2Vec model. Kind of overkill, and its really slow.
+Should test alternatives. 
